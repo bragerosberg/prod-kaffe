@@ -7,7 +7,7 @@
   },
   "homepage": "http://www.brage.blog/",
   "scripts": {
-    "deploy": "npm run build && gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
