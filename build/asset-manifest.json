@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4aca8d6d.css",
-    "main.js": "/static/js/main.d42902f0.js",
+    "main.css": "/static/css/main.681fa149.css",
+    "main.js": "/static/js/main.ae5abf5a.js",
     "static/media/losmangos.jpg": "/static/media/losmangos.742c1df63794029285f3.jpg",
     "static/media/evergoodclassic.jpg": "/static/media/evergoodclassic.47d672a3388161fe29e9.jpg",
     "static/media/frielefrokost.jpg": "/static/media/frielefrokost.69d5e8aa6e449697e3f9.jpg",
@@ -11,11 +11,11 @@
     "static/media/morkbrentali.jpg": "/static/media/morkbrentali.f8a15eaaffcac56f8cc9.jpg",
     "static/media/alioriginal.jpg": "/static/media/alioriginal.18ffff81df9fdb498134.jpg",
     "index.html": "/index.html",
-    "main.4aca8d6d.css.map": "/static/css/main.4aca8d6d.css.map",
-    "main.d42902f0.js.map": "/static/js/main.d42902f0.js.map"
+    "main.681fa149.css.map": "/static/css/main.681fa149.css.map",
+    "main.ae5abf5a.js.map": "/static/js/main.ae5abf5a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4aca8d6d.css",
-    "static/js/main.d42902f0.js"
+    "static/css/main.681fa149.css",
+    "static/js/main.ae5abf5a.js"
   ]
 }
