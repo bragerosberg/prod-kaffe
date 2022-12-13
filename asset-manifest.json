@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.0f1bf1ac.css",
-    "main.js": "/static/js/main.ed11ef97.js",
+    "main.js": "/static/js/main.1ab01ee1.js",
     "static/media/losmangos.jpg": "/static/media/losmangos.742c1df63794029285f3.jpg",
+    "static/media/fincatamana.jpg": "/static/media/fincatamana.d4d9ad1ee1c736669b6d.jpg",
     "static/media/evergoodclassic.jpg": "/static/media/evergoodclassic.47d672a3388161fe29e9.jpg",
     "static/media/frielefrokost.jpg": "/static/media/frielefrokost.69d5e8aa6e449697e3f9.jpg",
     "static/media/coopfyldigaromatisk.jpg": "/static/media/coopfyldigaromatisk.45022bbed4a3f48b93e7.jpg",
@@ -12,10 +13,10 @@
     "static/media/alioriginal.jpg": "/static/media/alioriginal.18ffff81df9fdb498134.jpg",
     "index.html": "/index.html",
     "main.0f1bf1ac.css.map": "/static/css/main.0f1bf1ac.css.map",
-    "main.ed11ef97.js.map": "/static/js/main.ed11ef97.js.map"
+    "main.1ab01ee1.js.map": "/static/js/main.1ab01ee1.js.map"
   },
   "entrypoints": [
     "static/css/main.0f1bf1ac.css",
-    "static/js/main.ed11ef97.js"
+    "static/js/main.1ab01ee1.js"
   ]
 }
