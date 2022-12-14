@@ -1,21 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f1bf1ac.css",
-    "main.js": "/static/js/main.ed11ef97.js",
-    "static/media/losmangos.jpg": "/static/media/losmangos.742c1df63794029285f3.jpg",
-    "static/media/evergoodclassic.jpg": "/static/media/evergoodclassic.47d672a3388161fe29e9.jpg",
-    "static/media/frielefrokost.jpg": "/static/media/frielefrokost.69d5e8aa6e449697e3f9.jpg",
-    "static/media/coopfyldigaromatisk.jpg": "/static/media/coopfyldigaromatisk.45022bbed4a3f48b93e7.jpg",
-    "static/media/mildrundcoop.jpg": "/static/media/mildrundcoop.4c96f5897e9ccee96982.jpg",
-    "static/media/morkkraftigcoop.jpg": "/static/media/morkkraftigcoop.9b0755b1e006d14e5894.jpg",
-    "static/media/morkbrentali.jpg": "/static/media/morkbrentali.f8a15eaaffcac56f8cc9.jpg",
-    "static/media/alioriginal.jpg": "/static/media/alioriginal.18ffff81df9fdb498134.jpg",
+    "main.css": "/static/css/main.389bf4c0.css",
+    "main.js": "/static/js/main.5cc2edc6.js",
+    "static/media/losmangos.jpg": "/static/media/losmangos.ef9094928c35b4ba42eb.jpg",
+    "static/media/kaffebonner.jpg": "/static/media/kaffebonner.a0db67b933aba183b5dc.jpg",
+    "static/media/kaffe-historie.jpg": "/static/media/kaffe-historie.edf83f7afad2deada8a8.jpg",
+    "static/media/kaffe-latte-kunst.jpg": "/static/media/kaffe-latte-kunst.ce4ec7a9454a4caa5e84.jpg",
+    "static/media/kaffe-torg.jpg": "/static/media/kaffe-torg.54c88bd2595c3f8a77dc.jpg",
+    "static/media/kaffe-kunst.jpg": "/static/media/kaffe-kunst.cc2ad18f599a7b73c78d.jpg",
+    "static/media/fincatamana.jpg": "/static/media/fincatamana.d259a818bd2eca060e3d.jpg",
+    "static/media/kaffe-kunst-2.jpg": "/static/media/kaffe-kunst-2.fe74c3c53508d79202da.jpg",
+    "static/media/evergoodclassic.jpg": "/static/media/evergoodclassic.52826819dd7f05087850.jpg",
+    "static/media/kaffe-transport.jpg": "/static/media/kaffe-transport.36ce9246ab8c1547431a.jpg",
+    "static/media/kaffe-filter.jpg": "/static/media/kaffe-filter.67f8b8ec2f903268b449.jpg",
+    "static/media/kaffe-vits.jpg": "/static/media/kaffe-vits.78f976cc39bc397fefe7.jpg",
+    "static/media/kaffe-tegneserie.jpg": "/static/media/kaffe-tegneserie.7f3ae56b852646fe3fa1.jpg",
+    "static/media/coopfyldigaromatisk.jpg": "/static/media/coopfyldigaromatisk.dc48f0730554ee4177e0.jpg",
+    "static/media/mildrundcoop.jpg": "/static/media/mildrundcoop.30fa2dea6d1ea9b9100c.jpg",
+    "static/media/morkkraftigcoop.jpg": "/static/media/morkkraftigcoop.3d0b2156ecb24867efd3.jpg",
+    "static/media/stor-kaffe-kopp.jpg": "/static/media/stor-kaffe-kopp.5afda30f520a5122762a.jpg",
+    "static/media/frielefrokost.jpg": "/static/media/frielefrokost.66745d73a9b62d6ce657.jpg",
+    "static/media/moderne-kaffe-logo.jpg": "/static/media/moderne-kaffe-logo.2c4f7779ab9553e96bb3.jpg",
+    "static/media/filter-kaffe.jpg": "/static/media/filter-kaffe.95a3365c9c6ecd49e3fd.jpg",
+    "static/media/jule-kaffe.jpg": "/static/media/jule-kaffe.49e5d6bd491a9aa283b0.jpg",
+    "static/media/alioriginal.jpg": "/static/media/alioriginal.05214a417843a7c4fe13.jpg",
+    "static/media/morkbrentali.jpg": "/static/media/morkbrentali.92d59310e4c0e8504a2b.jpg",
     "index.html": "/index.html",
-    "main.0f1bf1ac.css.map": "/static/css/main.0f1bf1ac.css.map",
-    "main.ed11ef97.js.map": "/static/js/main.ed11ef97.js.map"
+    "main.389bf4c0.css.map": "/static/css/main.389bf4c0.css.map",
+    "main.5cc2edc6.js.map": "/static/js/main.5cc2edc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f1bf1ac.css",
-    "static/js/main.ed11ef97.js"
+    "static/css/main.389bf4c0.css",
+    "static/js/main.5cc2edc6.js"
   ]
 }

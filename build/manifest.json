@@ -1,6 +1,6 @@
 {
-  "short_name": "Brage Blog",
-  "name": "Brage's Kaffe Blog",
+  "short_name": "Brage's kaffekopp",
+  "name": "Brage's kaffekopp",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#54211E",
   "background_color": "#ffffff"
 }
