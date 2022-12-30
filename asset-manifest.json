@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.74e2ed8d.css",
-    "main.js": "/static/js/main.cf583925.js",
+    "main.js": "/static/js/main.988ce413.js",
     "static/media/losmangos.jpg": "/static/media/losmangos.ef9094928c35b4ba42eb.jpg",
     "static/media/kaffebonner.jpg": "/static/media/kaffebonner.a0db67b933aba183b5dc.jpg",
     "static/media/kaffe-historie.jpg": "/static/media/kaffe-historie.edf83f7afad2deada8a8.jpg",
@@ -27,10 +27,10 @@
     "static/media/morkbrentali.jpg": "/static/media/morkbrentali.92d59310e4c0e8504a2b.jpg",
     "index.html": "/index.html",
     "main.74e2ed8d.css.map": "/static/css/main.74e2ed8d.css.map",
-    "main.cf583925.js.map": "/static/js/main.cf583925.js.map"
+    "main.988ce413.js.map": "/static/js/main.988ce413.js.map"
   },
   "entrypoints": [
     "static/css/main.74e2ed8d.css",
-    "static/js/main.cf583925.js"
+    "static/js/main.988ce413.js"
   ]
 }
